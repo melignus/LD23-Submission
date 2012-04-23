@@ -1,0 +1,25 @@
+This Game Requires Python2.7 and PyGame 1.9.1release:
+
+To Install PyGame:
+
+    easy_install -U pygame
+
+To Run the Game:
+
+    python ld23.py
+
+About:
+    The idea was that the 'tiny world' in question was a kid's backyard. The 
+game follows the kid's journey from the wood pile at the back of the yard, 
+through the perils that one might encounter on the way to dinner, which of 
+course he can't be late too. The bugs were just stuff I remember running into
+where I grew up. Those red centipedes that were under everything and the 
+hairy caterpillars that gave you blisters XD
+    This is my first game. I'm an application and automation developer but 
+I wanted to take this opportunity to cram a bunch of game making knowledge
+into my head and get a product out. I will definitely be back for another 
+Ludum Dare!
+
+    PS: Sorry if you have trouble running the game, I didn't have any time
+at the end to go over installations and getting a package ready. Maybe next
+time. Also didn't have time to place the number of seconds left at the end.
