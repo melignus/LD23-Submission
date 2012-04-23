@@ -2,7 +2,10 @@ This Game Requires Python2.7 and PyGame 1.9.1release:
 
 To Install PyGame:
 
-    easy_install -U pygame
+    On Ubuntu:
+        apt-get install python-pygame
+    On Windows and Mac:
+        http://www.pygame.org/download.shtml
 
 To Run the Game:
 
@@ -21,5 +24,5 @@ into my head and get a product out. I will definitely be back for another
 Ludum Dare!
 
     PS: Sorry if you have trouble running the game, I didn't have any time
-at the end to go over installations and getting a package ready. Maybe next
-time. Also didn't have time to place the number of seconds left at the end.
+at the end to get a package ready. Maybe next time. Also didn't have time to 
+place the number of seconds left at the end.
